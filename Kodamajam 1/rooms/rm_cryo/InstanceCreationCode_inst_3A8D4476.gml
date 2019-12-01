@@ -1,0 +1,1 @@
+text = ["A big metal door. \nYou have no idea how to open it."]

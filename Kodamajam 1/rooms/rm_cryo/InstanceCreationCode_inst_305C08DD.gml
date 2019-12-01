@@ -1,0 +1,1 @@
+text = ["A cryopod with an older boy in it. \nThe name plate reads 'Kogawa Kon'."]

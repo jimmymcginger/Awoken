@@ -1,0 +1,1 @@
+draw_sprite(spr6, subimg, x, y);

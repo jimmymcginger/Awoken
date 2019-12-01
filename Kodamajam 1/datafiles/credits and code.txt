@@ -1,0 +1,14 @@
+Credits:
+
+James McGrath (JimmyMcGinger) - coding & music.
+
+B. Kamenskiy (November_152) - art & animation.
+
+Programmes used:
+
+GameMaker2 (Game creation & Coding)
+Adobe Photoshop (Art & Animation)
+Cakewalk by Bandlab (Music & SoundFX
+
+Sourcecode:
+https://github.com/jimmymcginger/Awoken

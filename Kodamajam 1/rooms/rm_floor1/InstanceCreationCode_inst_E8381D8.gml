@@ -1,0 +1,1 @@
+text = ["This door is labelled 'Cryo Rooms 13&14'. \nYour keychip doesn't appear to work on this door."]

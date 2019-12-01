@@ -1,0 +1,1 @@
+draw_sprite_part(spr, subimg, obj_cyroroom.draw_podx, obj_cyroroom.draw_pody, 32, 96, bpod_x, bpod_y);
